@@ -55,4 +55,6 @@ status-website:
       href: https://status.projectoms.com/
     - title: GitHub
       href: https://github.com/ytmo
-      
+     
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; TomsProjectUptimebot/1.0; +http://www.projectoms.com/) 
+
