@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2021-05-08": 1
+      "2021-05-08": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.projectoms.com",
     "slug": "tp-blog",
     "status": "down",
-    "uptime": "2.32%",
-    "uptimeDay": "2.32%",
-    "uptimeWeek": "2.32%",
-    "uptimeMonth": "2.32%",
-    "uptimeYear": "2.32%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-05-08": 1
+      "2021-05-08": 10
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {}
   },
   {
@@ -68,32 +68,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1528,
-    "timeDay": 1528,
-    "timeWeek": 1528,
-    "timeMonth": 1528,
-    "timeYear": 1528,
+    "time": 1409,
+    "timeDay": 1409,
+    "timeWeek": 1409,
+    "timeMonth": 1409,
+    "timeYear": 1409,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "TP Main",
-    "url": "https://www.projectoms.com/pc/",
-    "icon": "https://favicons.githubusercontent.com/www.projectoms.com",
-    "slug": "tp-main",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
-    "dailyMinutesDown": {
-      "2021-05-08": 1
-    }
   },
   {
     "name": "TP API 1",
@@ -101,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/api.projectoms.com",
     "slug": "tp-api-1",
     "status": "down",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-05-08": 1
+      "2021-05-08": 10
     }
   },
   {
@@ -126,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -144,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 264,
-    "timeWeek": 264,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -162,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1036,
-    "timeWeek": 1036,
-    "timeMonth": 1036,
-    "timeYear": 1036,
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -180,13 +160,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1920,
-    "timeDay": 1920,
-    "timeWeek": 1920,
-    "timeMonth": 1920,
-    "timeYear": 1920,
+    "time": 1184,
+    "timeDay": 1184,
+    "timeWeek": 1184,
+    "timeMonth": 1184,
+    "timeYear": 1184,
     "dailyMinutesDown": {
-      "2021-05-08": 3
+      "2021-05-08": 49
     }
   },
   {
@@ -200,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1395,
-    "timeDay": 1395,
-    "timeWeek": 1395,
-    "timeMonth": 1395,
-    "timeYear": 1395,
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -213,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tp.je",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "3.78%",
-    "uptimeDay": "3.78%",
-    "uptimeWeek": "3.78%",
-    "uptimeMonth": "3.78%",
-    "uptimeYear": "3.78%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 0
+      "2021-05-08": 10
     }
   },
   {
@@ -238,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 1750,
-    "timeWeek": 1750,
-    "timeMonth": 1750,
-    "timeYear": 1750,
+    "time": 1584,
+    "timeDay": 1584,
+    "timeWeek": 1584,
+    "timeMonth": 1584,
+    "timeYear": 1584,
     "dailyMinutesDown": {}
   },
   {
@@ -251,18 +231,18 @@
     "icon": "https://favicons.githubusercontent.com/pan.projectoms.com",
     "slug": "tp-web-disk",
     "status": "down",
-    "uptime": "6.55%",
-    "uptimeDay": "6.55%",
-    "uptimeWeek": "6.55%",
-    "uptimeMonth": "6.55%",
-    "uptimeYear": "6.55%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 0
+      "2021-05-08": 9
     }
   },
   {
@@ -276,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 41,
-    "timeWeek": 41,
-    "timeMonth": 41,
-    "timeYear": 41,
+    "time": 141,
+    "timeDay": 141,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -312,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -330,11 +310,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1751,
-    "timeDay": 1751,
-    "timeWeek": 1751,
-    "timeMonth": 1751,
-    "timeYear": 1751,
+    "time": 1929,
+    "timeDay": 1929,
+    "timeWeek": 1929,
+    "timeMonth": 1929,
+    "timeYear": 1929,
     "dailyMinutesDown": {}
   },
   {
@@ -348,11 +328,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 615,
-    "timeWeek": 615,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "time": 511,
+    "timeDay": 511,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -366,11 +346,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   }
 ]
