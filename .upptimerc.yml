@@ -2,14 +2,46 @@ owner: TomsProject
 repo: uptime
 
 sites:
+  - name: TP Main
+    url: https://www.projectoms.com/pc/
+  - name: TP Blog
+    url: https://blog.projectoms.com/
+  - name: TP.JE
+    url: https://tp.je/
+  - name: VTP.XYZ
+    url: https://vtp.xyz/
+  - name: TP Main
+    url: https://www.projectoms.com/pc/
+  - name: TP API 1
+    url: https://api.projectoms.com/
+  - name: TP API 2
+    url: https://api1.projectoms.com/
+  - name: TP Assets
+    url: https://assets.projectoms.com/
+  - name: TP Avatar
+    url: https://avatar.vtp.xyz/
+  - name: 创客编程
+    url: https://www.ckbctc.com/
+  - name: TP Test
+    url: https://test.projectoms.com/
+  - name: TPCloud
+    url: https://cloud.tp.je/
+  - name: TP Short Link
+    url: https://s.tp.je/
+  - name: TP Web Disk
+    url: https://pan.projectoms.com/
+  - name: GitHub
+    url: https://github.com/
   - name: Google
-    url: https://www.google.com
+    url: https://www.google.com/
+  - name: Facebook
+    url: https://www.facebook.com/
+  - name: Baidu
+    url: https://www.baidu.com/
+  - name: Tencent
+    url: https://www.qq.com/
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   cname: tp-uptime.vercel.app
