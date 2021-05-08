@@ -15,12 +15,14 @@ status-website:
   cname: tp-uptime.vercel.app
   # baseUrl: /your-repo-name
   logoUrl: https://assets.projectoms.com/image/Icon/big/icon-1024.webp
-  name: Toms Project Status
-  introTitle: "Toms Project Status is a new uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Toms Project Uptime
+  introTitle: "Toms Project Uptime is a new uptime monitor and status page, powered entirely by GitHub."
+  introMessage: Toms Project Uptime Monitored from GitHub
   navbar:
+    - title: Home
+      href: https://projectoms.com
     - title: Status
-      href: /
+      href: https://status.projectoms.com/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/ytmo
       
