@@ -4,10 +4,8 @@ repo: uptime
 sites:
   - name: TP Main
     url: https://www.projectoms.com/pc/
-    method: HEAD
   - name: TP Blog
     url: https://blog.projectoms.com/
-    method: HEAD
   - name: TP.JE
     url: https://tp.je/
   - name: VTP.XYZ
