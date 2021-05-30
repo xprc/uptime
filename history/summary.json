@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.projectoms.com",
     "slug": "tp-main",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "96.54%",
     "time": 696,
     "timeDay": 795,
     "timeWeek": 915,
@@ -26,11 +26,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.projectoms.com",
     "slug": "tp-blog",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "96.54%",
     "time": 705,
     "timeDay": 935,
     "timeWeek": 892,
@@ -82,18 +82,19 @@
     "url": "https://api.projectoms.com/",
     "icon": "https://favicons.githubusercontent.com/api.projectoms.com",
     "slug": "tp-api-1",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
     "time": 2342,
     "timeDay": 2836,
     "timeWeek": 2920,
     "timeMonth": 2342,
     "timeYear": 2342,
     "dailyMinutesDown": {
+      "2021-05-30": 0,
       "2021-05-09": 530,
       "2021-05-08": 566
     }
@@ -103,9 +104,9 @@
     "url": "https://api1.projectoms.com/",
     "icon": "https://favicons.githubusercontent.com/api1.projectoms.com",
     "slug": "tp-api-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +115,9 @@
     "timeWeek": 1771,
     "timeMonth": 1355,
     "timeYear": 1355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-30": 0
+    }
   },
   {
     "name": "TP Assets",
@@ -205,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-30": 97,
+      "2021-05-30": 830,
       "2021-05-29": 1440,
       "2021-05-28": 1440,
       "2021-05-27": 1440,
@@ -235,9 +238,9 @@
     "url": "https://s.tp.je/",
     "icon": "https://favicons.githubusercontent.com/s.tp.je",
     "slug": "tp-short-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,7 +249,9 @@
     "timeWeek": 1255,
     "timeMonth": 1300,
     "timeYear": 1300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-30": 0
+    }
   },
   {
     "name": "TP Web Disk",
@@ -265,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-30": 97,
+      "2021-05-30": 830,
       "2021-05-29": 1440,
       "2021-05-28": 1440,
       "2021-05-27": 1440,
