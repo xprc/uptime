@@ -13,7 +13,7 @@
     "time": 466,
     "timeDay": 318,
     "timeWeek": 197,
-    "timeMonth": 299,
+    "timeMonth": 280,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2021-05-09": 530,
@@ -34,7 +34,7 @@
     "time": 486,
     "timeDay": 289,
     "timeWeek": 249,
-    "timeMonth": 330,
+    "timeMonth": 314,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2021-05-09": 530,
@@ -73,7 +73,7 @@
     "time": 810,
     "timeDay": 278,
     "timeWeek": 544,
-    "timeMonth": 587,
+    "timeMonth": 576,
     "timeYear": 810,
     "dailyMinutesDown": {}
   },
@@ -91,7 +91,7 @@
     "time": 1710,
     "timeDay": 885,
     "timeWeek": 1072,
-    "timeMonth": 1284,
+    "timeMonth": 1232,
     "timeYear": 1710,
     "dailyMinutesDown": {
       "2021-05-30": 41,
@@ -113,7 +113,7 @@
     "time": 1144,
     "timeDay": 791,
     "timeWeek": 893,
-    "timeMonth": 1015,
+    "timeMonth": 994,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2021-05-30": 41
@@ -133,7 +133,7 @@
     "time": 222,
     "timeDay": 240,
     "timeWeek": 207,
-    "timeMonth": 215,
+    "timeMonth": 209,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -151,7 +151,7 @@
     "time": 426,
     "timeDay": 436,
     "timeWeek": 342,
-    "timeMonth": 430,
+    "timeMonth": 432,
     "timeYear": 426,
     "dailyMinutesDown": {}
   },
@@ -169,7 +169,7 @@
     "time": 508,
     "timeDay": 378,
     "timeWeek": 405,
-    "timeMonth": 520,
+    "timeMonth": 523,
     "timeYear": 508,
     "dailyMinutesDown": {}
   },
@@ -187,7 +187,7 @@
     "time": 359,
     "timeDay": 291,
     "timeWeek": 293,
-    "timeMonth": 396,
+    "timeMonth": 403,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -197,11 +197,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tp.je",
     "slug": "tp-cloud",
     "status": "up",
-    "uptime": "11.30%",
+    "uptime": "11.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "16.80%",
-    "uptimeYear": "11.30%",
+    "uptimeWeek": "82.15%",
+    "uptimeMonth": "17.00%",
+    "uptimeYear": "11.40%",
     "time": 2406,
     "timeDay": 1786,
     "timeWeek": 2406,
@@ -262,18 +262,17 @@
     "icon": "https://favicons.githubusercontent.com/s.tp.je",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.90%",
     "time": 658,
     "timeDay": 391,
     "timeWeek": 136,
-    "timeMonth": 206,
+    "timeMonth": 184,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2021-06-27": 5,
       "2021-06-13": 34,
       "2021-05-30": 41
     }
@@ -295,7 +294,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-27": 1395,
+      "2021-06-28": 43,
+      "2021-06-27": 1440,
       "2021-06-26": 1440,
       "2021-06-25": 1440,
       "2021-06-24": 1440,
@@ -362,7 +362,7 @@
     "time": 136,
     "timeDay": 268,
     "timeWeek": 108,
-    "timeMonth": 128,
+    "timeMonth": 123,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -398,7 +398,7 @@
     "time": 301,
     "timeDay": 333,
     "timeWeek": 334,
-    "timeMonth": 304,
+    "timeMonth": 299,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
@@ -416,7 +416,7 @@
     "time": 2055,
     "timeDay": 1982,
     "timeWeek": 2061,
-    "timeMonth": 2025,
+    "timeMonth": 2019,
     "timeYear": 2055,
     "dailyMinutesDown": {}
   },
@@ -434,7 +434,7 @@
     "time": 455,
     "timeDay": 352,
     "timeWeek": 399,
-    "timeMonth": 438,
+    "timeMonth": 440,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -452,7 +452,7 @@
     "time": 204,
     "timeDay": 133,
     "timeWeek": 232,
-    "timeMonth": 199,
+    "timeMonth": 198,
     "timeYear": 204,
     "dailyMinutesDown": {}
   }
