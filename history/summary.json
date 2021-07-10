@@ -46,19 +46,19 @@
     "url": "https://tp.je/",
     "icon": "https://favicons.githubusercontent.com/tp.je",
     "slug": "tp-je",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 107,
-    "timeWeek": 227,
-    "timeMonth": 209,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.94%",
+    "time": 221,
+    "timeDay": 761,
+    "timeWeek": 376,
+    "timeMonth": 248,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2021-07-10": 1
+      "2021-07-10": 58
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://assets.projectoms.com/",
     "icon": "https://favicons.githubusercontent.com/assets.projectoms.com",
     "slug": "tp-assets",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 443,
-    "timeWeek": 271,
-    "timeMonth": 222,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.94%",
+    "time": 233,
+    "timeDay": 542,
+    "timeWeek": 317,
+    "timeMonth": 236,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2021-07-10": 1
+      "2021-07-10": 58
     }
   },
   {
@@ -146,19 +146,19 @@
     "url": "https://avatar.vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/avatar.vtp.xyz",
     "slug": "tp-avatar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 1027,
-    "timeWeek": 540,
-    "timeMonth": 424,
-    "timeYear": 435,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.94%",
+    "time": 442,
+    "timeDay": 983,
+    "timeWeek": 590,
+    "timeMonth": 440,
+    "timeYear": 442,
     "dailyMinutesDown": {
-      "2021-07-10": 0
+      "2021-07-10": 57
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 2390,
     "timeYear": 2390,
     "dailyMinutesDown": {
-      "2021-07-10": 56,
+      "2021-07-10": 114,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
@@ -315,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-10": 56,
+      "2021-07-10": 114,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
