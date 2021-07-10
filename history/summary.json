@@ -46,10 +46,10 @@
     "url": "https://tp.je/",
     "icon": "https://favicons.githubusercontent.com/tp.je",
     "slug": "tp-je",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -57,7 +57,9 @@
     "timeWeek": 227,
     "timeMonth": 209,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 1
+    }
   },
   {
     "name": "VTP.XYZ",
@@ -83,11 +85,11 @@
     "icon": "https://favicons.githubusercontent.com/api.projectoms.com",
     "slug": "tp-api-1",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 1602,
     "timeDay": 1255,
     "timeWeek": 1163,
@@ -124,10 +126,10 @@
     "url": "https://assets.projectoms.com/",
     "icon": "https://favicons.githubusercontent.com/assets.projectoms.com",
     "slug": "tp-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -135,16 +137,18 @@
     "timeWeek": 271,
     "timeMonth": 222,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 1
+    }
   },
   {
     "name": "TP Avatar",
     "url": "https://avatar.vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/avatar.vtp.xyz",
     "slug": "tp-avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +157,9 @@
     "timeWeek": 540,
     "timeMonth": 424,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 0
+    }
   },
   {
     "name": "CKCode",
@@ -208,7 +214,7 @@
     "timeMonth": 2390,
     "timeYear": 2390,
     "dailyMinutesDown": {
-      "2021-07-10": 39,
+      "2021-07-10": 56,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
@@ -309,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-10": 39,
+      "2021-07-10": 56,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
