@@ -179,19 +179,19 @@
     "url": "https://www.ckbctc.com/",
     "icon": "https://favicons.githubusercontent.com/www.ckbctc.com",
     "slug": "ck-code",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 1866,
-    "timeWeek": 1181,
-    "timeMonth": 1088,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 761,
+    "timeDay": 1259,
+    "timeWeek": 1115,
+    "timeMonth": 1074,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2021-10-16": 0
+      "2021-10-16": 12
     }
   },
   {
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-16": 1403,
+      "2021-10-16": 1415,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
       "2021-10-13": 1440,
