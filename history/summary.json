@@ -179,9 +179,9 @@
     "url": "https://www.ckbctc.com/",
     "icon": "https://favicons.githubusercontent.com/www.ckbctc.com",
     "slug": "ck-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,7 +190,9 @@
     "timeWeek": 1115,
     "timeMonth": 1074,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-17": 0
+    }
   },
   {
     "name": "TP Test",
@@ -216,11 +218,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tp.je",
     "slug": "tp-cloud",
     "status": "up",
-    "uptime": "63.21%",
+    "uptime": "63.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.21%",
+    "uptimeYear": "63.22%",
     "time": 2504,
     "timeDay": 2526,
     "timeWeek": 2503,
@@ -331,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-17": 45,
+      "2021-10-17": 126,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
