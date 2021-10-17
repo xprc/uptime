@@ -84,10 +84,10 @@
     "url": "https://api.projectoms.com/",
     "icon": "https://favicons.githubusercontent.com/api.projectoms.com",
     "slug": "tp-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 1322,
@@ -96,6 +96,7 @@
     "timeMonth": 1090,
     "timeYear": 1322,
     "dailyMinutesDown": {
+      "2021-10-17": 1,
       "2021-05-30": 41,
       "2021-05-09": 530,
       "2021-05-08": 566
@@ -333,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-17": 157,
+      "2021-10-17": 173,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
