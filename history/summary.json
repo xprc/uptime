@@ -161,9 +161,9 @@
     "url": "https://avatar.vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/avatar.vtp.xyz",
     "slug": "tp-avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.64%",
@@ -173,6 +173,7 @@
     "timeMonth": 688,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2021-11-23": 0,
       "2021-11-22": 72,
       "2021-11-21": 21,
       "2021-11-19": 17,
@@ -360,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-23": 708,
+      "2021-11-23": 719,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
       "2021-11-20": 1440,
