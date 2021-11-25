@@ -66,12 +66,12 @@
     "url": "https://vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/vtp.xyz",
     "slug": "vtp-xyz",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "70.14%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "70.15%",
     "uptimeWeek": "70.72%",
-    "uptimeMonth": "91.91%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "98.79%",
     "time": 287,
     "timeDay": 83,
     "timeWeek": 364,
@@ -86,7 +86,7 @@
       "2021-11-20": 342,
       "2021-11-19": 289,
       "2021-11-18": 317,
-      "2021-11-17": 281
+      "2021-11-17": 247
     }
   },
   {
@@ -98,7 +98,7 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.56%",
     "time": 1701,
     "timeDay": 1827,
@@ -127,7 +127,7 @@
     "time": 909,
     "timeDay": 869,
     "timeWeek": 868,
-    "timeMonth": 817,
+    "timeMonth": 811,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2021-11-13": 20,
@@ -148,7 +148,7 @@
     "time": 182,
     "timeDay": 109,
     "timeWeek": 195,
-    "timeMonth": 147,
+    "timeMonth": 148,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2021-11-19": 521,
@@ -169,7 +169,7 @@
     "time": 432,
     "timeDay": 1144,
     "timeWeek": 650,
-    "timeMonth": 702,
+    "timeMonth": 711,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2021-11-23": 38,
@@ -215,7 +215,7 @@
     "time": 759,
     "timeDay": 338,
     "timeWeek": 463,
-    "timeMonth": 355,
+    "timeMonth": 356,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2021-10-17": 31
@@ -235,7 +235,7 @@
     "time": 245,
     "timeDay": 233,
     "timeWeek": 152,
-    "timeMonth": 151,
+    "timeMonth": 153,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -334,7 +334,7 @@
     "time": 278,
     "timeDay": 66,
     "timeWeek": 59,
-    "timeMonth": 165,
+    "timeMonth": 169,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2021-07-07": 29,
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-25": 1390,
+      "2021-11-25": 1395,
       "2021-11-24": 1440,
       "2021-11-23": 1440,
       "2021-11-22": 1440,
@@ -578,7 +578,7 @@
     "time": 116,
     "timeDay": 266,
     "timeWeek": 110,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -596,7 +596,7 @@
     "time": 107,
     "timeDay": 117,
     "timeWeek": 89,
-    "timeMonth": 104,
+    "timeMonth": 106,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -614,7 +614,7 @@
     "time": 426,
     "timeDay": 359,
     "timeWeek": 378,
-    "timeMonth": 286,
+    "timeMonth": 290,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2021-10-04": 360
@@ -634,7 +634,7 @@
     "time": 2019,
     "timeDay": 1226,
     "timeWeek": 1950,
-    "timeMonth": 2021,
+    "timeMonth": 2014,
     "timeYear": 2019,
     "dailyMinutesDown": {}
   },
@@ -652,7 +652,7 @@
     "time": 392,
     "timeDay": 254,
     "timeWeek": 342,
-    "timeMonth": 407,
+    "timeMonth": 410,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2021-07-22": 78
