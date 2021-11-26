@@ -66,14 +66,14 @@
     "url": "https://vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/vtp.xyz",
     "slug": "vtp-xyz",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "70.83%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "71.92%",
     "uptimeWeek": "70.61%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "98.79%",
     "time": 286,
-    "timeDay": 90,
+    "timeDay": 91,
     "timeWeek": 364,
     "timeMonth": 184,
     "timeYear": 286,
@@ -87,7 +87,7 @@
       "2021-11-20": 342,
       "2021-11-19": 289,
       "2021-11-18": 317,
-      "2021-11-17": 170
+      "2021-11-17": 143
     }
   },
   {
@@ -143,7 +143,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.22%",
+    "uptimeWeek": "95.50%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.80%",
     "time": 182,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-26": 311,
+      "2021-11-26": 339,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
       "2021-11-23": 1440,
