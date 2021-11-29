@@ -67,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/vtp.xyz",
     "slug": "vtp-xyz",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "69.40%",
-    "uptimeWeek": "69.14%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.76%",
+    "uptimeDay": "71.89%",
+    "uptimeWeek": "69.35%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "98.76%",
     "time": 268,
-    "timeDay": 99,
+    "timeDay": 98,
     "timeWeek": 246,
     "timeMonth": 173,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2021-11-29": 338,
+      "2021-11-29": 327,
       "2021-11-28": 403,
       "2021-11-27": 425,
       "2021-11-26": 306,
@@ -86,7 +86,7 @@
       "2021-11-24": 474,
       "2021-11-23": 656,
       "2021-11-22": 317,
-      "2021-11-21": 240
+      "2021-11-21": 326
     }
   },
   {
@@ -163,12 +163,12 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.64%",
     "time": 438,
     "timeDay": 382,
-    "timeWeek": 733,
+    "timeWeek": 746,
     "timeMonth": 751,
     "timeYear": 438,
     "dailyMinutesDown": {
@@ -245,11 +245,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tp.je",
     "slug": "tp-cloud",
     "status": "up",
-    "uptime": "71.05%",
+    "uptime": "71.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.05%",
+    "uptimeYear": "71.06%",
     "time": 2515,
     "timeDay": 2721,
     "timeWeek": 2552,
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-29": 1079,
+      "2021-11-29": 1139,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
@@ -667,9 +667,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -678,6 +678,8 @@
     "timeWeek": 303,
     "timeMonth": 245,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   }
 ]
