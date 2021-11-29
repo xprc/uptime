@@ -69,7 +69,7 @@
     "status": "up",
     "uptime": "98.76%",
     "uptimeDay": "71.89%",
-    "uptimeWeek": "69.35%",
+    "uptimeWeek": "69.55%",
     "uptimeMonth": "91.60%",
     "uptimeYear": "98.76%",
     "time": 268,
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-29": 1139,
+      "2021-11-29": 1159,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
@@ -667,19 +667,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 373,
-    "timeWeek": 303,
-    "timeMonth": 245,
-    "timeYear": 239,
+    "time": 240,
+    "timeDay": 410,
+    "timeWeek": 321,
+    "timeMonth": 251,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2021-11-29": 0
+      "2021-11-29": 19
     }
   }
 ]
