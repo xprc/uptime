@@ -67,12 +67,12 @@
     "url": "https://vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/vtp.xyz",
     "slug": "vtp-xyz",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "55.81%",
-    "uptimeWeek": "67.82%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "55.77%",
+    "uptimeWeek": "67.84%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "98.92%",
     "time": 199,
     "timeDay": 91,
     "timeWeek": 109,
@@ -87,7 +87,7 @@
       "2021-12-21": 516,
       "2021-12-20": 365,
       "2021-12-19": 368,
-      "2021-12-18": 87
+      "2021-12-18": 37
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-26": 1290,
+      "2021-12-26": 1303,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -618,19 +618,19 @@
     "url": "https://github.com/",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 242,
-    "timeWeek": 114,
-    "timeMonth": 126,
+    "timeDay": 150,
+    "timeWeek": 107,
+    "timeMonth": 124,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2021-12-26": 1
+      "2021-12-26": 11
     }
   },
   {
