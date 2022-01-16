@@ -162,12 +162,12 @@
     "url": "https://avatar.vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/avatar.vtp.xyz",
     "slug": "tp-avatar",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "96.86%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "96.85%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 620,
     "timeDay": 558,
     "timeWeek": 825,
@@ -231,7 +231,7 @@
       "2021-09-15": 51,
       "2021-09-12": 22,
       "2021-09-11": 15,
-      "2021-09-10": 64
+      "2021-09-10": 36
     }
   },
   {
@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 337,
+      "2022-01-16": 348,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
