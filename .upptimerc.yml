@@ -17,7 +17,7 @@ sites:
   - name: TP Assets
     url: https://assets.projectoms.com/
   - name: TP Avatar
-    url: https://avatar.vtp.xyz/
+    url: https://avatar.projectoms.com/
   - name: CKCode
     url: https://www.ckbctc.com/
   - name: TP Test
