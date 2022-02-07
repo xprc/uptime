@@ -13,7 +13,7 @@
     "time": 250,
     "timeDay": 132,
     "timeWeek": 142,
-    "timeMonth": 207,
+    "timeMonth": 200,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2021-05-09": 530,
@@ -34,7 +34,7 @@
     "time": 275,
     "timeDay": 159,
     "timeWeek": 123,
-    "timeMonth": 207,
+    "timeMonth": 203,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2021-05-09": 530,
@@ -55,7 +55,7 @@
     "time": 203,
     "timeDay": 79,
     "timeWeek": 119,
-    "timeMonth": 137,
+    "timeMonth": 139,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2021-11-30": 21,
@@ -67,15 +67,15 @@
     "url": "https://vtp.xyz/",
     "icon": "https://favicons.githubusercontent.com/vtp.xyz",
     "slug": "vtp-xyz",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "76.87%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "99.13%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "79.32%",
+    "uptimeWeek": "77.02%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "99.15%",
     "time": 165,
-    "timeDay": 224,
-    "timeWeek": 116,
+    "timeDay": 233,
+    "timeWeek": 115,
     "timeMonth": 111,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -88,8 +88,7 @@
       "2022-02-01": 307,
       "2022-01-31": 275,
       "2022-01-30": 369,
-      "2022-01-29": 509,
-      "2022-01-28": 3
+      "2022-01-29": 445
     }
   },
   {
@@ -398,7 +397,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-07": 1391,
+      "2022-02-07": 1417,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
