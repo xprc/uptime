@@ -11,9 +11,9 @@ sites:
   - name: VTP.XYZ
     url: https://vtp.xyz/
   - name: TP API 1
-    url: https://api.projectoms.com/
+    url: https://api.projectoms.com/time
   - name: TP API 2
-    url: https://api1.projectoms.com/
+    url: https://api1.projectoms.com/time
   - name: TP Assets
     url: https://assets.projectoms.com/
   - name: TP Avatar
