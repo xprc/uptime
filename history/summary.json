@@ -288,11 +288,11 @@
     "icon": "https://favicons.githubusercontent.com/cloud.tp.je",
     "slug": "tp-cloud",
     "status": "up",
-    "uptime": "82.39%",
+    "uptime": "82.43%",
     "uptimeDay": "98.43%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "82.39%",
+    "uptimeYear": "82.43%",
     "time": 2505,
     "timeDay": 1456,
     "timeWeek": 1489,
@@ -409,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 323,
+      "2022-04-14": 1358,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
@@ -858,10 +858,10 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
@@ -870,6 +870,7 @@
     "timeMonth": 238,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2021-11-29": 19
     }
   }
