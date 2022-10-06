@@ -1,3 +1,4 @@
+# Due to upptime is not very useful to TomsProject, we wont use it as next status page.
 # [📈 Live Status](https://tp-uptime.vercel.app): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [TomsProject](https://www.projectoms.com/), powered by [Upptime](https://github.com/upptime/upptime).
