@@ -18,6 +18,8 @@ sites:
     url: https://assets.projectoms.com/
   - name: TP Avatar
     url: https://avatar.projectoms.com/
+  - name: TP Media
+    url: https://media.projectoms.com/
   - name: CKCode
     url: https://www.ckbctc.com/
   - name: TP Test
@@ -26,8 +28,6 @@ sites:
     url: https://cloud.tp.je/
   - name: TP Short Link
     url: https://s.tp.je/
-  - name: TP Web Disk
-    url: https://pan.projectoms.com/
   - name: GitHub
     url: https://github.com/
   - name: Google
