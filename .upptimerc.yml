@@ -3,7 +3,7 @@ repo: uptime
 
 sites:
   - name: TP Main
-    url: https://ww.projectoms.com/pc/
+    url: https://www.projectoms.com/pc/
   - name: TP Blog
     url: https://blog.projectoms.com/
   - name: TP.JE
