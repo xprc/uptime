@@ -50,7 +50,7 @@ status-website:
   introMessage: Toms Project Uptime Monitored from GitHub
   navbar:
     - title: Home
-      href: https://tp.je
+      href: https://projectoms.com
     - title: Status
       href: https://status.projectoms.com/
     - title: GitHub
