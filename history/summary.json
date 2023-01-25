@@ -311,7 +311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "78.28%",
+    "uptime": "78.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -595,10 +595,10 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 231,
@@ -607,6 +607,7 @@
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-17": 11,
       "2022-10-20": 17
     }
