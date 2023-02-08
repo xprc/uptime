@@ -93,8 +93,7 @@
       "2022-02-12": 262,
       "2022-02-11": 243,
       "2022-02-10": 143,
-      "2022-02-09": 264,
-      "2022-02-08": 161
+      "2022-02-09": 264
     }
   },
   {
@@ -316,7 +315,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "78.75%",
+    "uptime": "78.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
