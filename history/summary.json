@@ -568,10 +568,10 @@
     "url": "https://www.qq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qq.com.ico",
     "slug": "tencent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 399,
@@ -580,7 +580,7 @@
     "timeMonth": 436,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-04-17": 18,
+      "2023-04-17": 19,
       "2022-10-30": 24,
       "2022-06-17": 21
     }
