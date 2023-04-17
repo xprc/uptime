@@ -56,7 +56,7 @@
     "timeDay": 249,
     "timeWeek": 233,
     "timeMonth": 240,
-    "timeYear": 314,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2023-02-10": 28,
       "2022-10-14": 93,
@@ -101,7 +101,7 @@
     "timeDay": 976,
     "timeWeek": 902,
     "timeMonth": 802,
-    "timeYear": 1127,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2023-04-15": 9,
       "2023-03-24": 18,
@@ -166,7 +166,7 @@
     "timeDay": 157,
     "timeWeek": 198,
     "timeMonth": 179,
-    "timeYear": 295,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2023-04-16": 11,
       "2022-08-15": 19
@@ -187,7 +187,7 @@
     "timeDay": 219,
     "timeWeek": 190,
     "timeMonth": 166,
-    "timeYear": 259,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   },
   {
@@ -223,7 +223,7 @@
     "timeDay": 154,
     "timeWeek": 187,
     "timeMonth": 212,
-    "timeYear": 516,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2023-01-28": 10,
       "2022-10-24": 32,
@@ -515,7 +515,7 @@
     "timeDay": 178,
     "timeWeek": 373,
     "timeMonth": 283,
-    "timeYear": 278,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -533,7 +533,7 @@
     "timeDay": 2520,
     "timeWeek": 2863,
     "timeMonth": 2503,
-    "timeYear": 2679,
+    "timeYear": 2682,
     "dailyMinutesDown": {
       "2023-04-12": 41,
       "2023-04-11": 21,
@@ -568,19 +568,19 @@
     "url": "https://www.qq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qq.com.ico",
     "slug": "tencent",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 400,
-    "timeDay": 467,
-    "timeWeek": 530,
+    "timeDay": 457,
+    "timeWeek": 520,
     "timeMonth": 438,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-04-17": 29,
+      "2023-04-17": 41,
       "2022-10-30": 24,
       "2022-06-17": 21
     }
