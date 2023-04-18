@@ -505,11 +505,11 @@
     "url": "https://www.facebook.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 173,
@@ -517,7 +517,7 @@
     "timeMonth": 280,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-04-18": 11
+      "2023-04-18": 12
     }
   },
   {
@@ -572,12 +572,12 @@
     "slug": "tencent",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.27%",
+    "uptimeDay": "94.49%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 402,
-    "timeDay": 460,
+    "timeDay": 472,
     "timeWeek": 502,
     "timeMonth": 441,
     "timeYear": 406,
