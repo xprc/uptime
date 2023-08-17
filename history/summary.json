@@ -281,7 +281,7 @@
     "timeMonth": 1304,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2023-08-17": 307,
+      "2023-08-17": 324,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -359,7 +359,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.35%",
+    "uptimeYear": "84.36%",
     "time": 441,
     "timeDay": 242,
     "timeWeek": 306,
@@ -501,19 +501,19 @@
     "url": "https://www.baidu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "82.80%",
-    "uptimeWeek": "96.42%",
+    "uptimeDay": "82.75%",
+    "uptimeWeek": "96.41%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "99.51%",
-    "time": 2556,
+    "uptimeYear": "99.52%",
+    "time": 2532,
     "timeDay": 3424,
     "timeWeek": 2669,
     "timeMonth": 2217,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2023-08-17": 151,
+      "2023-08-17": 152,
       "2023-08-16": 95,
       "2023-08-14": 103,
       "2023-08-10": 10,
@@ -551,8 +551,7 @@
       "2022-09-15": 193,
       "2022-09-10": 16,
       "2022-09-09": 51,
-      "2022-09-06": 23,
-      "2022-09-01": 36
+      "2022-09-06": 23
     }
   },
   {
