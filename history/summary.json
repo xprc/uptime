@@ -583,19 +583,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 182,
-    "timeWeek": 142,
-    "timeMonth": 195,
+    "timeDay": 168,
+    "timeWeek": 143,
+    "timeMonth": 194,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-02-22": 1,
+      "2024-02-22": 19,
       "2023-08-25": 10
     }
   }
