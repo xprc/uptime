@@ -160,9 +160,9 @@
     "url": "https://avatar.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.projectoms.com.ico",
     "slug": "tp-avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -172,6 +172,7 @@
     "timeMonth": 189,
     "timeYear": 173,
     "dailyMinutesDown": {
+      "2024-06-02": 0,
       "2023-09-16": 484,
       "2023-06-21": 6
     }
@@ -181,9 +182,9 @@
     "url": "https://media.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/media.projectoms.com.ico",
     "slug": "tp-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -193,6 +194,7 @@
     "timeMonth": 212,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2024-06-02": 0,
       "2023-09-16": 484,
       "2023-06-21": 6
     }
@@ -407,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "87.09%",
+    "uptime": "87.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
