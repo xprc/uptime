@@ -1,7 +1,7 @@
 url: https://tp.je/
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2024-07-05T13:21:39.970Z
+status: down
+code: 429
+responseTime: 212
+lastUpdated: 2024-07-05T15:36:45.953Z
 startTime: 2021-05-08T14:33:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
