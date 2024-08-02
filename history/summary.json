@@ -58,7 +58,7 @@
     "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.35%",
+    "uptimeMonth": "68.40%",
     "uptimeYear": "90.33%",
     "time": 258,
     "timeDay": 257,
@@ -341,15 +341,15 @@
     "url": "https://test.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "72.12%",
-    "uptimeWeek": "81.27%",
-    "uptimeMonth": "95.69%",
+    "uptimeDay": "72.93%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "99.64%",
-    "time": 485,
-    "timeDay": 1660,
-    "timeWeek": 922,
+    "time": 486,
+    "timeDay": 1666,
+    "timeWeek": 924,
     "timeMonth": 799,
     "timeYear": 543,
     "dailyMinutesDown": {
@@ -358,7 +358,7 @@
       "2024-07-31": 413,
       "2024-07-30": 305,
       "2024-07-29": 381,
-      "2024-07-28": 185
+      "2024-07-28": 174
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2024-08-02": 981,
+      "2024-08-02": 1000,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -540,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "down",
-    "uptime": "83.01%",
+    "uptime": "83.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-08-02": 981,
+      "2024-08-02": 1000,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
