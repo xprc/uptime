@@ -58,7 +58,7 @@
     "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.45%",
+    "uptimeMonth": "85.67%",
     "uptimeYear": "90.33%",
     "time": 257,
     "timeDay": 245,
@@ -343,12 +343,12 @@
     "slug": "tp-test",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "68.36%",
+    "uptimeDay": "71.11%",
     "uptimeWeek": "77.61%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.57%",
     "time": 633,
-    "timeDay": 737,
+    "timeDay": 724,
     "timeWeek": 1515,
     "timeMonth": 991,
     "timeYear": 715,
@@ -367,7 +367,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "78.16%",
+    "uptime": "78.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -376,9 +376,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1686,
+    "timeYear": 1689,
     "dailyMinutesDown": {
-      "2024-08-07": 1404,
+      "2024-08-08": 64,
+      "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -530,8 +531,7 @@
       "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
-      "2023-08-10": 1440,
-      "2023-08-09": 1440
+      "2023-08-10": 1440
     }
   },
   {
@@ -540,18 +540,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "down",
-    "uptime": "82.64%",
+    "uptime": "82.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.03%",
+    "uptimeYear": "83.01%",
     "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-08-07": 1404,
+      "2024-08-08": 64,
+      "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -712,8 +713,7 @@
       "2023-08-17": 266,
       "2023-08-16": 95,
       "2023-08-14": 103,
-      "2023-08-10": 10,
-      "2023-08-09": 52
+      "2023-08-10": 10
     }
   },
   {
