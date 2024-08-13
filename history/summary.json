@@ -343,12 +343,12 @@
     "slug": "tp-test",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "74.29%",
+    "uptimeDay": "77.73%",
     "uptimeWeek": "80.04%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "99.62%",
     "time": 668,
-    "timeDay": 712,
+    "timeDay": 724,
     "timeWeek": 816,
     "timeMonth": 952,
     "timeYear": 720,
@@ -370,9 +370,9 @@
     "status": "up",
     "uptime": "78.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.96%",
-    "uptimeMonth": "6.83%",
-    "uptimeYear": "59.39%",
+    "uptimeWeek": "38.72%",
+    "uptimeMonth": "7.00%",
+    "uptimeYear": "59.40%",
     "time": 1665,
     "timeDay": 2042,
     "timeWeek": 1810,
@@ -529,8 +529,7 @@
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
-      "2023-08-15": 1440,
-      "2023-08-14": 1440
+      "2023-08-15": 1440
     }
   },
   {
@@ -541,8 +540,8 @@
     "status": "up",
     "uptime": "82.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.14%",
-    "uptimeMonth": "7.33%",
+    "uptimeWeek": "40.89%",
+    "uptimeMonth": "7.50%",
     "uptimeYear": "82.43%",
     "time": 217,
     "timeDay": 192,
@@ -712,8 +711,7 @@
       "2023-09-05": 10,
       "2023-08-29": 21,
       "2023-08-17": 266,
-      "2023-08-16": 95,
-      "2023-08-14": 103
+      "2023-08-16": 95
     }
   },
   {
