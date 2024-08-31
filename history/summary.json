@@ -341,14 +341,14 @@
     "slug": "tp-test",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "66.01%",
+    "uptimeDay": "71.26%",
     "uptimeWeek": "79.45%",
     "uptimeMonth": "95.27%",
     "uptimeYear": "99.61%",
     "time": 682,
-    "timeDay": 654,
+    "timeDay": 651,
     "timeWeek": 727,
-    "timeMonth": 928,
+    "timeMonth": 929,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2024-08-30": 481,
@@ -369,8 +369,8 @@
     "uptime": "78.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.98%",
-    "uptimeYear": "64.32%",
+    "uptimeMonth": "66.18%",
+    "uptimeYear": "64.33%",
     "time": 1658,
     "timeDay": 1936,
     "timeWeek": 2009,
@@ -509,8 +509,7 @@
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-02": 1440
     }
   },
   {
@@ -522,7 +521,7 @@
     "uptime": "82.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.48%",
+    "uptimeMonth": "66.68%",
     "uptimeYear": "82.43%",
     "time": 217,
     "timeDay": 253,
