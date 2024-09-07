@@ -339,15 +339,15 @@
     "url": "https://test.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "42.60%",
-    "uptimeWeek": "69.09%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "43.60%",
+    "uptimeWeek": "69.20%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 675,
     "timeDay": 656,
-    "timeWeek": 663,
+    "timeWeek": 664,
     "timeMonth": 718,
     "timeYear": 725,
     "dailyMinutesDown": {
@@ -356,7 +356,7 @@
       "2024-09-05": 602,
       "2024-09-04": 376,
       "2024-09-03": 498,
-      "2024-09-02": 163
+      "2024-09-02": 151
     }
   },
   {
@@ -368,7 +368,7 @@
     "uptime": "78.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.87%",
+    "uptimeMonth": "91.94%",
     "uptimeYear": "66.48%",
     "time": 1649,
     "timeDay": 2051,
@@ -513,7 +513,7 @@
     "uptime": "82.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.37%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "82.43%",
     "time": 218,
     "timeDay": 287,
