@@ -328,24 +328,24 @@
     "url": "https://test.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "51.81%",
-    "uptimeWeek": "61.73%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "53.09%",
+    "uptimeWeek": "62.20%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "99.28%",
     "time": 685,
-    "timeDay": 577,
+    "timeDay": 573,
     "timeWeek": 646,
-    "timeMonth": 682,
+    "timeMonth": 681,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-09-16": 597,
+      "2024-09-16": 598,
       "2024-09-15": 690,
       "2024-09-14": 755,
       "2024-09-13": 795,
       "2024-09-12": 950,
-      "2024-09-11": 71
+      "2024-09-11": 23
     }
   },
   {
