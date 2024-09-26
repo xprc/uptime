@@ -330,7 +330,7 @@
     "slug": "tp-test",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "34.63%",
+    "uptimeDay": "39.86%",
     "uptimeWeek": "63.52%",
     "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
@@ -357,7 +357,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.44%",
+    "uptimeYear": "71.46%",
     "time": 1637,
     "timeDay": 1706,
     "timeWeek": 1929,
@@ -470,8 +470,7 @@
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
-      "2023-09-28": 1440,
-      "2023-09-27": 1440
+      "2023-09-28": 1440
     }
   },
   {
@@ -480,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "83.14%",
+    "uptime": "83.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
