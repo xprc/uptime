@@ -328,15 +328,15 @@
     "url": "https://test.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "50.32%",
-    "uptimeWeek": "58.66%",
-    "uptimeMonth": "90.49%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "52.07%",
+    "uptimeWeek": "59.28%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "99.22%",
     "time": 671,
-    "timeDay": 695,
-    "timeWeek": 634,
+    "timeDay": 699,
+    "timeWeek": 635,
     "timeMonth": 639,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -345,7 +345,7 @@
       "2024-09-26": 777,
       "2024-09-25": 939,
       "2024-09-24": 780,
-      "2024-09-23": 343
+      "2024-09-23": 280
     }
   },
   {
@@ -354,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "up",
-    "uptime": "78.87%",
+    "uptime": "78.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
