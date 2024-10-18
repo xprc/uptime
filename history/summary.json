@@ -338,8 +338,8 @@
     "slug": "tp-test",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "15.39%",
-    "uptimeWeek": "11.84%",
+    "uptimeDay": "20.53%",
+    "uptimeWeek": "12.58%",
     "uptimeMonth": "66.05%",
     "uptimeYear": "97.17%",
     "time": 658,
@@ -372,7 +372,7 @@
     "uptime": "78.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.10%",
+    "uptimeMonth": "53.93%",
     "uptimeYear": "73.65%",
     "time": 1652,
     "timeDay": 763,
@@ -380,7 +380,8 @@
     "timeMonth": 1417,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2024-10-17": 1438,
+      "2024-10-18": 72,
+      "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -478,8 +479,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   },
   {
@@ -488,7 +488,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
     "status": "up",
-    "uptime": "83.44%",
+    "uptime": "83.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.88%",
     "uptimeMonth": "99.51%",
