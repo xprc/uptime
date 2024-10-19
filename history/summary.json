@@ -338,19 +338,19 @@
     "url": "https://test.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "4.58%",
-    "uptimeWeek": "12.27%",
-    "uptimeMonth": "62.20%",
+    "uptimeDay": "6.68%",
+    "uptimeWeek": "12.57%",
+    "uptimeMonth": "62.22%",
     "uptimeYear": "96.85%",
     "time": 660,
-    "timeDay": 408,
-    "timeWeek": 499,
+    "timeDay": 444,
+    "timeWeek": 501,
     "timeMonth": 596,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-10-19": 939,
+      "2024-10-19": 940,
       "2024-10-18": 1219,
       "2024-10-17": 1217,
       "2024-10-16": 1325,
@@ -363,7 +363,7 @@
       "2024-10-09": 1291,
       "2024-10-08": 1271,
       "2024-10-07": 1274,
-      "2024-10-06": 432
+      "2024-10-06": 420
     }
   },
   {
@@ -375,7 +375,7 @@
     "uptime": "77.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.51%",
+    "uptimeMonth": "48.44%",
     "uptimeYear": "73.65%",
     "time": 1653,
     "timeDay": 891,
@@ -383,7 +383,7 @@
     "timeMonth": 1392,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2024-10-19": 1005,
+      "2024-10-19": 1036,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
