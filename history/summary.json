@@ -258,11 +258,11 @@
     "url": "https://avatar.projectoms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/avatar.projectoms.com.ico",
     "slug": "tp-avatar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "54.40%",
-    "uptimeWeek": "73.22%",
-    "uptimeMonth": "93.84%",
+    "uptimeDay": "54.81%",
+    "uptimeWeek": "73.35%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 154,
     "timeDay": 131,
@@ -270,12 +270,12 @@
     "timeMonth": 114,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-01-26": 410,
+      "2025-01-26": 411,
       "2025-01-25": 733,
       "2025-01-24": 608,
       "2025-01-23": 374,
       "2025-01-22": 320,
-      "2025-01-21": 250
+      "2025-01-21": 236
     }
   },
   {
@@ -391,7 +391,7 @@
     "timeMonth": 616,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-01-26": 943,
+      "2025-01-26": 956,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -494,7 +494,7 @@
     "uptime": "76.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.96%",
+    "uptimeMonth": "22.93%",
     "uptimeYear": "66.10%",
     "time": 1504,
     "timeDay": 690,
@@ -502,7 +502,7 @@
     "timeMonth": 734,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-01-26": 944,
+      "2025-01-26": 956,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -641,7 +641,7 @@
     "uptime": "98.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.88%",
+    "uptimeMonth": "54.85%",
     "uptimeYear": "96.20%",
     "time": 889,
     "timeDay": 4249,
@@ -649,7 +649,7 @@
     "timeMonth": 2226,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2025-01-26": 944,
+      "2025-01-26": 956,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
