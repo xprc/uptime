@@ -52,15 +52,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.91%",
     "time": 275,
     "timeDay": 257,
     "timeWeek": 248,
     "timeMonth": 232,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-07-02": 13,
-      "2024-07-12": 579
+      "2025-07-02": 13
     }
   },
   {
@@ -301,7 +300,7 @@
     "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "81.18%",
+    "uptimeMonth": "81.41%",
     "uptimeYear": "77.69%",
     "time": 1022,
     "timeDay": 1395,
@@ -717,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "68.02%",
+    "uptime": "68.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -728,6 +727,7 @@
     "timeMonth": 872,
     "timeYear": 944,
     "dailyMinutesDown": {
+      "2025-07-12": 98,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -984,8 +984,7 @@
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
-      "2024-07-13": 1440,
-      "2024-07-12": 1440
+      "2024-07-13": 1440
     }
   },
   {
@@ -1107,15 +1106,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 2309,
     "timeDay": 2459,
     "timeWeek": 2450,
     "timeMonth": 2381,
-    "timeYear": 2322,
-    "dailyMinutesDown": {
-      "2024-07-12": 190
-    }
+    "timeYear": 2321,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tencent",
