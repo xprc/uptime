@@ -1,7 +1,7 @@
 url: https://api1.projectoms.com/time
-status: down
-code: 403
-responseTime: 149
-lastUpdated: 2025-07-18T04:49:53.244Z
+status: up
+code: 200
+responseTime: 767
+lastUpdated: 2025-07-18T05:16:30.220Z
 startTime: 2021-05-08T14:33:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
