@@ -745,7 +745,7 @@
     "timeMonth": 836,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2025-07-19": 223,
+      "2025-07-19": 259,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -1137,10 +1137,10 @@
     "url": "https://www.qq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qq.com.ico",
     "slug": "tencent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1136,
@@ -1149,6 +1149,7 @@
     "timeMonth": 1385,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2025-07-19": 1,
       "2025-07-17": 21
     }
   },
