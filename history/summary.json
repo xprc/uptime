@@ -113,17 +113,17 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "94.69%",
+    "uptimeDay": "94.66%",
     "uptimeWeek": "96.88%",
     "uptimeMonth": "98.37%",
-    "uptimeYear": "99.47%",
-    "time": 1079,
-    "timeDay": 603,
-    "timeWeek": 673,
-    "timeMonth": 1150,
-    "timeYear": 1167,
+    "uptimeYear": "99.48%",
+    "time": 1078,
+    "timeDay": 516,
+    "timeWeek": 650,
+    "timeMonth": 1136,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-07-25": 77,
       "2025-07-23": 95,
@@ -206,8 +206,7 @@
       "2025-03-14": 11,
       "2025-03-11": 9,
       "2025-03-09": 77,
-      "2025-03-06": 9,
-      "2025-03-04": 11
+      "2025-03-06": 9
     }
   },
   {
@@ -767,7 +766,7 @@
     "timeMonth": 820,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2025-07-25": 933,
+      "2025-07-25": 1067,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
