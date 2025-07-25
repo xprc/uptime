@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "97.73%",
-    "uptimeWeek": "95.99%",
+    "uptimeWeek": "96.42%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.87%",
     "time": 226,
     "timeDay": 218,
-    "timeWeek": 541,
+    "timeWeek": 554,
     "timeMonth": 336,
     "timeYear": 228,
     "dailyMinutesDown": {
@@ -765,7 +765,8 @@
     "timeMonth": 820,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2025-07-24": 1419,
+      "2025-07-25": 99,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -1021,8 +1022,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -1161,12 +1161,12 @@
     "slug": "tencent",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.27%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.96%",
     "time": 1151,
-    "timeDay": 1364,
+    "timeDay": 1406,
     "timeWeek": 1550,
     "timeMonth": 1391,
     "timeYear": 1236,
