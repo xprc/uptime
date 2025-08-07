@@ -49,13 +49,13 @@
     "slug": "tp-blog",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "96.19%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "96.66%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.80%",
     "time": 228,
-    "timeDay": 229,
-    "timeWeek": 202,
+    "timeDay": 254,
+    "timeWeek": 207,
     "timeMonth": 295,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -136,12 +136,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "96.52%",
-    "uptimeWeek": "96.20%",
+    "uptimeWeek": "96.48%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.44%",
     "time": 1071,
     "timeDay": 701,
-    "timeWeek": 691,
+    "timeWeek": 709,
     "timeMonth": 974,
     "timeYear": 1133,
     "dailyMinutesDown": {
@@ -553,7 +553,7 @@
     "timeDay": 169,
     "timeWeek": 144,
     "timeMonth": 148,
-    "timeYear": 617,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-08-06": 23,
       "2025-08-04": 18,
@@ -789,7 +789,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "66.88%",
+    "uptime": "66.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -800,7 +800,8 @@
     "timeMonth": 817,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-08-06": 1396,
+      "2025-08-07": 102,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -1056,8 +1057,7 @@
       "2024-10-04": 1389,
       "2024-08-10": 483,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   },
   {
