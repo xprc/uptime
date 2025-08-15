@@ -1,7 +1,7 @@
 url: https://test.projectoms.com/
-status: up
-code: 200
-responseTime: 79
-lastUpdated: 2025-08-15T11:12:28.339Z
+status: down
+code: 429
+responseTime: 72
+lastUpdated: 2025-08-15T14:17:57.267Z
 startTime: 2021-05-08T14:33:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
