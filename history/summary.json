@@ -436,7 +436,7 @@
     "timeDay": 1536,
     "timeWeek": 1586,
     "timeMonth": 1512,
-    "timeYear": 1551,
+    "timeYear": 1554,
     "dailyMinutesDown": {
       "2025-09-27": 9,
       "2025-09-24": 33,
@@ -631,7 +631,7 @@
     "timeDay": 81,
     "timeWeek": 229,
     "timeMonth": 216,
-    "timeYear": 490,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-09-04": 11,
       "2025-09-03": 33,
@@ -895,9 +895,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 744,
-    "timeYear": 786,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-09-28": 1373,
+      "2025-09-28": 1391,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1221,7 +1221,7 @@
     "timeDay": 167,
     "timeWeek": 200,
     "timeMonth": 370,
-    "timeYear": 1026,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2025-09-15": 11,
       "2025-08-31": 77,
@@ -1315,7 +1315,7 @@
     "timeDay": 160,
     "timeWeek": 348,
     "timeMonth": 432,
-    "timeYear": 449,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2025-03-25": 35
     }
@@ -1335,7 +1335,7 @@
     "timeDay": 2815,
     "timeWeek": 2582,
     "timeMonth": 2469,
-    "timeYear": 2372,
+    "timeYear": 2371,
     "dailyMinutesDown": {}
   },
   {
@@ -1343,19 +1343,19 @@
     "url": "https://www.qq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.qq.com.ico",
     "slug": "tencent",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.26%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.87%",
-    "time": 1220,
-    "timeDay": 1375,
-    "timeWeek": 2118,
-    "timeMonth": 1578,
+    "time": 1221,
+    "timeDay": 1342,
+    "timeWeek": 2053,
+    "timeMonth": 1572,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2025-09-28": 12,
+      "2025-09-28": 30,
       "2025-09-27": 40,
       "2025-09-26": 21,
       "2025-09-23": 23,
