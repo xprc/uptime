@@ -195,18 +195,19 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.57%",
-    "time": 1088,
+    "time": 1089,
     "timeDay": 986,
     "timeWeek": 945,
     "timeMonth": 1658,
     "timeYear": 1122,
     "dailyMinutesDown": {
+      "2025-10-11": 1,
       "2025-10-03": 15,
       "2025-10-02": 11,
       "2025-09-30": 20,
@@ -264,7 +265,7 @@
       "2025-07-23": 95,
       "2025-07-22": 17,
       "2025-07-21": 42,
-      "2025-07-20": 61
+      "2025-07-20": 21
     }
   },
   {
@@ -429,18 +430,19 @@
     "url": "https://www.ckbctc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ckbctc.com.ico",
     "slug": "ck-code",
-    "status": "up",
-    "uptime": "94.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "95.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "77.83%",
-    "time": 1199,
+    "uptimeYear": "77.85%",
+    "time": 1200,
     "timeDay": 1568,
     "timeWeek": 1449,
     "timeMonth": 1500,
     "timeYear": 1565,
     "dailyMinutesDown": {
+      "2025-10-11": 1,
       "2025-10-03": 14,
       "2025-10-02": 10,
       "2025-09-30": 19,
@@ -615,8 +617,7 @@
       "2024-12-28": 40,
       "2024-12-26": 38,
       "2024-12-24": 55,
-      "2024-12-23": 20,
-      "2024-12-19": 110
+      "2024-12-23": 20
     }
   },
   {
@@ -900,7 +901,7 @@
     "timeMonth": 0,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2025-10-11": 1137,
+      "2025-10-11": 1158,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
