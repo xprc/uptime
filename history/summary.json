@@ -638,7 +638,7 @@
     "timeDay": 376,
     "timeWeek": 216,
     "timeMonth": 215,
-    "timeYear": 412,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-09-04": 11,
       "2025-09-03": 33,
@@ -893,7 +893,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "63.48%",
+    "uptime": "63.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-10-29": 84,
+      "2025-10-29": 955,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -1223,10 +1223,10 @@
     "url": "https://s.tp.je/",
     "icon": "https://icons.duckduckgo.com/ip3/s.tp.je.ico",
     "slug": "tp-short-link",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.10%",
     "time": 927,
@@ -1235,6 +1235,7 @@
     "timeMonth": 177,
     "timeYear": 1045,
     "dailyMinutesDown": {
+      "2025-10-29": 1,
       "2025-09-15": 11,
       "2025-08-31": 77,
       "2025-07-21": 252,
@@ -1262,7 +1263,7 @@
       "2025-01-13": 896,
       "2025-01-12": 634,
       "2025-01-11": 596,
-      "2025-01-10": 99
+      "2025-01-10": 74
     }
   },
   {
@@ -1357,12 +1358,12 @@
     "slug": "tencent",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.28%",
+    "uptimeDay": "98.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.81%",
     "time": 1283,
-    "timeDay": 1439,
+    "timeDay": 1470,
     "timeWeek": 1647,
     "timeMonth": 1435,
     "timeYear": 1366,
