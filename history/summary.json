@@ -200,7 +200,7 @@
     "slug": "tp-api-1",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "59.07%",
+    "uptimeDay": "59.88%",
     "uptimeWeek": "85.67%",
     "uptimeMonth": "96.45%",
     "uptimeYear": "99.35%",
@@ -441,19 +441,19 @@
     "url": "https://www.ckbctc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ckbctc.com.ico",
     "slug": "ck-code",
-    "status": "up",
-    "uptime": "95.04%",
-    "uptimeDay": "23.42%",
-    "uptimeWeek": "80.60%",
+    "status": "down",
+    "uptime": "95.05%",
+    "uptimeDay": "24.18%",
+    "uptimeWeek": "80.59%",
     "uptimeMonth": "95.27%",
-    "uptimeYear": "77.67%",
-    "time": 1342,
+    "uptimeYear": "77.69%",
+    "time": 1343,
     "timeDay": 1582,
     "timeWeek": 1554,
     "timeMonth": 1561,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2025-11-08": 184,
+      "2025-11-08": 185,
       "2025-11-07": 1145,
       "2025-11-06": 549,
       "2025-11-05": 45,
@@ -620,8 +620,7 @@
       "2025-02-14": 10,
       "2025-02-10": 9,
       "2025-02-05": 56,
-      "2025-02-03": 21,
-      "2025-02-02": 106
+      "2025-02-03": 21
     }
   },
   {
@@ -639,7 +638,7 @@
     "timeDay": 322,
     "timeWeek": 196,
     "timeMonth": 204,
-    "timeYear": 374,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2025-09-04": 11,
       "2025-09-03": 33,
@@ -901,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-11-08": 225,
+      "2025-11-08": 237,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
