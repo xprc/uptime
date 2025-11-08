@@ -198,10 +198,10 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "66.61%",
-    "uptimeWeek": "85.67%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "67.43%",
+    "uptimeWeek": "85.66%",
     "uptimeMonth": "96.45%",
     "uptimeYear": "99.35%",
     "time": 1101,
@@ -210,6 +210,7 @@
     "timeMonth": 1026,
     "timeYear": 1111,
     "dailyMinutesDown": {
+      "2025-11-08": 1,
       "2025-11-07": 814,
       "2025-11-06": 550,
       "2025-11-05": 46,
@@ -273,7 +274,7 @@
       "2025-08-02": 68,
       "2025-08-01": 69,
       "2025-07-31": 135,
-      "2025-07-30": 61
+      "2025-07-30": 26
     }
   },
   {
@@ -441,19 +442,19 @@
     "url": "https://www.ckbctc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ckbctc.com.ico",
     "slug": "ck-code",
-    "status": "up",
-    "uptime": "95.04%",
-    "uptimeDay": "25.73%",
-    "uptimeWeek": "79.85%",
+    "status": "down",
+    "uptime": "95.05%",
+    "uptimeDay": "26.56%",
+    "uptimeWeek": "79.84%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "77.68%",
-    "time": 1349,
+    "uptimeYear": "77.69%",
+    "time": 1351,
     "timeDay": 1550,
     "timeWeek": 1537,
     "timeMonth": 1554,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2025-11-08": 259,
+      "2025-11-08": 260,
       "2025-11-07": 1145,
       "2025-11-06": 549,
       "2025-11-05": 45,
@@ -618,8 +619,7 @@
       "2025-02-16": 9,
       "2025-02-15": 9,
       "2025-02-14": 10,
-      "2025-02-10": 9,
-      "2025-02-05": 56
+      "2025-02-10": 9
     }
   },
   {
@@ -632,7 +632,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.64%",
+    "uptimeYear": "45.65%",
     "time": 411,
     "timeDay": 322,
     "timeWeek": 196,
@@ -899,7 +899,7 @@
     "timeMonth": 0,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-11-08": 334,
+      "2025-11-08": 347,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
