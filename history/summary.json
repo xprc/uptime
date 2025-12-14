@@ -196,7 +196,7 @@
     "slug": "tp-api-1",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "93.54%",
+    "uptimeDay": "94.52%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "79.57%",
     "uptimeYear": "96.67%",
@@ -525,7 +525,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "55.40%",
+    "uptimeYear": "55.42%",
     "time": 394,
     "timeDay": 278,
     "timeWeek": 239,
@@ -737,8 +737,7 @@
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
-      "2024-12-15": 1440,
-      "2024-12-14": 1440
+      "2024-12-15": 1440
     }
   },
   {
@@ -751,14 +750,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.54%",
+    "uptimeYear": "5.52%",
     "time": 876,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-12-13": 1421,
+      "2025-12-14": 101,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
