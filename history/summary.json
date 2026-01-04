@@ -193,18 +193,19 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "97.89%",
+    "uptimeDay": "97.86%",
     "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "96.60%",
-    "time": 1120,
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "96.61%",
+    "time": 1121,
     "timeDay": 1202,
     "timeWeek": 937,
-    "timeMonth": 1376,
+    "timeMonth": 1380,
     "timeYear": 1156,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2026-01-03": 30,
       "2026-01-02": 15,
       "2026-01-01": 149,
@@ -290,8 +291,7 @@
       "2025-08-19": 126,
       "2025-08-18": 45,
       "2025-08-17": 25,
-      "2025-08-16": 17,
-      "2025-08-15": 23
+      "2025-08-16": 17
     }
   },
   {
@@ -527,7 +527,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.37%",
+    "uptimeYear": "61.38%",
     "time": 382,
     "timeDay": 141,
     "timeWeek": 156,
@@ -738,7 +738,7 @@
     "timeMonth": 0,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2026-01-04": 1121,
+      "2026-01-04": 1184,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
