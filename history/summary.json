@@ -195,10 +195,10 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "96.58%",
     "time": 1141,
@@ -207,6 +207,7 @@
     "timeMonth": 995,
     "timeYear": 1140,
     "dailyMinutesDown": {
+      "2026-02-21": 1,
       "2026-02-19": 60,
       "2026-02-11": 63,
       "2026-02-10": 63,
@@ -300,7 +301,7 @@
       "2025-08-26": 39,
       "2025-08-25": 13,
       "2025-08-24": 21,
-      "2025-08-23": 53
+      "2025-08-23": 31
     }
   },
   {
@@ -522,7 +523,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.33%",
+    "uptimeYear": "74.54%",
     "time": 360,
     "timeDay": 267,
     "timeWeek": 169,
@@ -674,7 +675,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.tp.je.ico",
     "slug": "tp-cloud",
     "status": "down",
-    "uptime": "59.31%",
+    "uptime": "59.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -685,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2026-02-21": 112,
+      "2026-02-21": 1238,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -1182,12 +1183,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.60%",
     "time": 1279,
     "timeDay": 739,
-    "timeWeek": 740,
+    "timeWeek": 786,
     "timeMonth": 665,
     "timeYear": 1319,
     "dailyMinutesDown": {
