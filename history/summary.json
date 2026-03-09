@@ -7,16 +7,17 @@
     "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.76%",
-    "uptimeMonth": "82.23%",
-    "uptimeYear": "97.82%",
+    "uptimeWeek": "21.56%",
+    "uptimeMonth": "81.95%",
+    "uptimeYear": "97.80%",
     "time": 256,
     "timeDay": 202,
     "timeWeek": 286,
     "timeMonth": 281,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-03-08": 1439,
+      "2026-03-09": 120,
+      "2026-03-08": 1440,
       "2026-03-07": 1324,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -63,16 +64,17 @@
     "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.19%",
-    "uptimeMonth": "82.09%",
-    "uptimeYear": "98.03%",
+    "uptimeWeek": "20.98%",
+    "uptimeMonth": "81.82%",
+    "uptimeYear": "98.01%",
     "time": 257,
     "timeDay": 146,
     "timeWeek": 236,
     "timeMonth": 232,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-03-08": 1439,
+      "2026-03-09": 120,
+      "2026-03-08": 1440,
       "2026-03-07": 1324,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -217,7 +219,7 @@
     "timeDay": 820,
     "timeWeek": 734,
     "timeMonth": 896,
-    "timeYear": 1119,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2026-03-07": 16,
       "2026-03-02": 136,
@@ -484,7 +486,7 @@
     "timeDay": 140,
     "timeWeek": 275,
     "timeMonth": 263,
-    "timeYear": 1174,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2026-01-14": 37,
       "2026-01-13": 18,
@@ -534,10 +536,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
     "status": "down",
-    "uptime": "88.38%",
+    "uptime": "88.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.47%",
-    "uptimeMonth": "81.93%",
+    "uptimeWeek": "20.27%",
+    "uptimeMonth": "81.65%",
     "uptimeYear": "77.18%",
     "time": 348,
     "timeDay": 57,
@@ -545,6 +547,7 @@
     "timeMonth": 189,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2026-03-09": 121,
       "2026-03-08": 1440,
       "2026-03-07": 1324,
       "2026-03-06": 1440,
@@ -672,8 +675,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -693,6 +695,7 @@
     "timeMonth": 0,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2026-03-09": 121,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -1056,8 +1059,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
