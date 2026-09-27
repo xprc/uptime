@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.projectoms.com.ico",
     "slug": "tp-main",
     "status": "down",
-    "uptime": "89.29%",
+    "uptime": "89.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.39%",
+    "uptimeYear": "42.36%",
     "time": 221,
     "timeDay": 39,
     "timeWeek": 48,
@@ -33,7 +33,7 @@
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
-      "2026-09-27": 1238,
+      "2026-09-27": 1401,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -245,16 +245,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.projectoms.com.ico",
     "slug": "tp-blog",
     "status": "down",
-    "uptime": "89.33%",
+    "uptime": "89.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.84%",
+    "uptimeYear": "42.81%",
     "time": 213,
     "timeDay": 42,
     "timeWeek": 50,
     "timeMonth": 50,
-    "timeYear": 185,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2025-11-18": 86,
       "2025-11-19": 259,
@@ -265,7 +265,7 @@
       "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 623,
-      "2026-09-27": 1238,
+      "2026-09-27": 1401,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -534,16 +534,16 @@
     "url": "https://api.projectoms.com/time",
     "icon": "https://icons.duckduckgo.com/ip3/api.projectoms.com.ico",
     "slug": "tp-api-1",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.96%",
-    "time": 1151,
-    "timeDay": 757,
-    "timeWeek": 909,
-    "timeMonth": 923,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "88.71%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "98.93%",
+    "time": 1152,
+    "timeDay": 768,
+    "timeWeek": 893,
+    "timeMonth": 919,
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2025-12-04": 22,
@@ -642,7 +642,7 @@
       "2026-09-12": 135,
       "2026-09-11": 103,
       "2026-09-19": 129,
-      "2026-09-27": 1
+      "2026-09-27": 163
     }
   },
   {
@@ -727,7 +727,7 @@
     "timeDay": 815,
     "timeWeek": 546,
     "timeMonth": 285,
-    "timeYear": 389,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2026-08-22": 32,
       "2026-08-23": 37
@@ -748,7 +748,7 @@
     "timeDay": 23,
     "timeWeek": 111,
     "timeMonth": 214,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -766,7 +766,7 @@
     "timeDay": 457,
     "timeWeek": 308,
     "timeMonth": 309,
-    "timeYear": 645,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-09-29": 11,
       "2025-09-30": 19,
@@ -814,11 +814,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.projectoms.com.ico",
     "slug": "tp-test",
     "status": "down",
-    "uptime": "79.27%",
+    "uptime": "79.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.89%",
+    "uptimeYear": "42.86%",
     "time": 168,
     "timeDay": 67,
     "timeWeek": 59,
@@ -832,7 +832,7 @@
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
-      "2026-09-27": 1239,
+      "2026-09-27": 1402,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 1239,
+      "2026-09-27": 1402,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1514,7 +1514,7 @@
     "timeDay": 494,
     "timeWeek": 365,
     "timeMonth": 405,
-    "timeYear": 516,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2025-11-20": 14,
       "2025-11-24": 11
@@ -1535,7 +1535,7 @@
     "timeDay": 1940,
     "timeWeek": 3118,
     "timeMonth": 2874,
-    "timeYear": 2439,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2026-01-29": 96,
       "2026-02-08": 30
@@ -1556,7 +1556,7 @@
     "timeDay": 1941,
     "timeWeek": 2434,
     "timeMonth": 1746,
-    "timeYear": 1024,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-09-28": 30,
       "2025-09-30": 12,
@@ -1650,7 +1650,7 @@
     "timeDay": 204,
     "timeWeek": 245,
     "timeMonth": 207,
-    "timeYear": 190,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-03-18": 60
     }
